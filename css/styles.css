@@ -1,0 +1,48 @@
+body{
+    background-color:#8FBDD3;
+}
+h1{
+    color:#06113C;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    text-align: center;
+    font-family: monospace;
+}
+.Top-container{
+    
+    position: relative;
+    padding-top: 10px;
+}
+.t-cloud{
+    position: absolute;
+    left: 900px;
+    bottom: 70px;
+}
+.b-cloud{
+    position: relative;
+    bottom: 20px;
+    left: 200px;
+}
+.mount{
+    position:absolute;
+    top: 150px;
+    right:360px;
+    bottom: 100px;
+
+}
+.grl{
+
+width:25%;
+height: 25%;
+
+}
+.pic{
+    margin-left: 45%;
+    margin-top:28%;
+}
+
+.nav{
+    padding-left: 83%;
+}
